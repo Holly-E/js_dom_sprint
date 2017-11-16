@@ -1,7 +1,4 @@
-/*$(document).ready(function() {
-
-$('h1').html('Sassy');
-}); */
+// see assignment line 42
 
 function createOL() {
   //create ordered list and append to Upcoming Traversals
