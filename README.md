@@ -1,2 +1,2 @@
 # js_dom_sprint
-Redid the jquery assignment in pure javascript to practice js
+Redid the assignment_jq_dom_sprint (written with jquery) in pure javascript to compare & learn
