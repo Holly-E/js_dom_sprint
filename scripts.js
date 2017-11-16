@@ -42,6 +42,17 @@ function txtArea() {
   t.outerHTML=t.outerHTML.replace('input', 'textarea');
 };
 
+/* Assignment:
+1. Change the <h1> to something cheeky
+2. Inside the container for "Upcoming Traversals", create and insert an ordered list
+3. Make all sad classes into happy ones.
+4. Make the annoying popup link point instead to http://www.cashcats.biz.
+5. Change the positioning of the popup so it is on the right side of the screen.
+   Make it 30 pixels lower than its current position.
+6. Replace the ellipsis ... with content of your choice, do so by traversing from a different element.
+7. Replace the form input with a <textarea> instead of a <input type="text">.
+*/
+
 window.onload = function() {
   document.getElementsByTagName('h1')[0].innerHTML = 'Sassy';
   createOL();
